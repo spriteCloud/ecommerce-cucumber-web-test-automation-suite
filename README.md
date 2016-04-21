@@ -13,7 +13,7 @@ Most Ecommerce sites have the same set of general features:
 - Account page
 
 This example cucumber testsuite contains test scenarios that in general match the functionality of most Ecommerce sites.
-For convinience, a small part of the testsuite is already automated.
+For convenience, a small part of the testsuite is already automated.
 
 # Setup
 
