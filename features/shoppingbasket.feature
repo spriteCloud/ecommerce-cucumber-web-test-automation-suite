@@ -2,7 +2,7 @@
 Feature: Shopping basket
 	As a visitor of the ecommerce website
 	I want to have a shopping basket
-	So that I can see the products an the costs of what I am purchasing
+	So that I can see the products and costs of what I want to purchase
 
 	@basket01
 	Scenario: basket01 - Opening the shopping basket
