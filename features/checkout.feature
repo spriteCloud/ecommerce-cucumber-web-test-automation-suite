@@ -2,7 +2,7 @@
 Feature: Checkout
 	As a visitor of the ecommerce website
 	I want to be able to do a purchase
-	So that I can enjoy see the products an the costs of what I am purchasing
+	So that I can get the product that I want
 
 	@check01
 	Scenario: check01 - Successful checkout
