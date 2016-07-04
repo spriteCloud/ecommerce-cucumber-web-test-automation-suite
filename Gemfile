@@ -25,4 +25,4 @@ gem 'watir-webdriver'
 gem 'cucumber'
 
 # LapisLazul itself
-gem 'lapis_lazuli', "0.8.3"
+gem 'lapis_lazuli'
