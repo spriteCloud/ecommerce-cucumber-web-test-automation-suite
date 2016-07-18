@@ -31,4 +31,6 @@ Then(/^I can see details of the product$/) do
                    }]
   )
   raise("Cannot find details section on page") unless item && item.visible?
+
+  browser.take_screenshot
 end
