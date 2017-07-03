@@ -11,7 +11,7 @@
 
 ################################################################################
 # Type of testrun
-default: -f pretty -x
+default: -f pretty -x BROWSER=chrome
 debug: -f pretty BREAKPOINT_ON_FAILURE=1
 html_report: -f pretty -f html --out=results/<%=timestamp%>_report.html
 junit_report: -f pretty -f junit --out=results

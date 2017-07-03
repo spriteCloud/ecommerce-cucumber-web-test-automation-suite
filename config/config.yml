@@ -9,6 +9,8 @@
 ################################################################################
 # Set the global variables
 default_env: production              # defines the environment
+default_device: desktop720           # See devices.yml for your options
+
 
 ################################################################################
 # List of error strings. Step will fail if one of these strings is detected.
